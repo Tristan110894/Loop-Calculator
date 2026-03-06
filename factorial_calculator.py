@@ -7,8 +7,10 @@ Instructor: Holtslander
 
 def factorial():
     # Write your code here
-
-
+n= input("Please enter a non negative number"\n)
+p= 1
+for i in range(n ,0 ,1
+p= x i
 # You should not need to change any code below this point
 def main():
     print("This program computes factorials and displays their intermediate calculations.")
@@ -19,4 +21,5 @@ def main():
     print("Thank you for using this factorial calculator!")
 
 if __name__ == "__main__":
+
     main()
